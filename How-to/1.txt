@@ -3,3 +3,4 @@
   2. copy one folder ex: react-native-tools
   3. git add folder name(react-native-tools) : to add folder
   4. git commit -m "Add react-native-tools" : to commit the changes to your local repository.
+  5. git push origin main(branch name)
