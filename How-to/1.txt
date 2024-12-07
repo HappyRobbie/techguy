@@ -1,0 +1,6 @@
+- How to download certain file/folder from GitHub and copy one folder to it and  push it to your repository.
+  1. git clone https://github.com/your-username/repository-name.git(clone your repository to local) 
+  2. copy one folder ex: react-native-tools
+  3. git add folder name(react-native-tools) : to add folder
+  4. git commit -m "Add react-native-tools" : to commit the changes to your local repository.
+  5. git push origin main : to push the changes on GitHub repository.
